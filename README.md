@@ -1,8 +1,11 @@
 # :book: Welcome to alx-interview
+
 ## Topics Covered.
+
 1. Python List, Iteration.
 
 ## :wrench: Project setup
+
 ```
 # create project directory.
 mkdir ./alx-interview
@@ -15,14 +18,37 @@ git init
 pip install pycodestyle==2.8.0
 pip install pep8==1.7.0
 ```
+
 ## :computer: Project.
+
 [0x00. Pascal's Triangle](/0x00-pascal_triangle)
+
 ## :wrench: Project setup.
+
 ```
 # create project directory.
 mkdir ./0x00-pascal_triangle
 touch ./0x00-pascal_triangle/README.md
 cd ./0x00-pascal_triangle
 ```
+
 ### :heavy_check_mark: Solution.
+
 > :point_right: [Go to solution](/0-pascal_triangle.py)
+
+[0x01. lockboxes](/0x01-lockboxes)
+
+lockboxes interview question
+
+## :wrench: Project setup.
+
+```
+# Create project directory.
+mkdir ./0x01-lockboxes
+touch ./0x01-lockboxes/README.md
+cd ./0x01-lockboxes
+```
+
+### :heavy_check_mark: Solution.
+
+> :point_right: [Go to solution](/0-lockboxes.py)
