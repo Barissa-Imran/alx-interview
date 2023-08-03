@@ -6,6 +6,14 @@ all boxes in a given list can be opened
 
 
 def canUnlockAll(boxes):
+    """
+    Function to check whether all boxes can be opened by list of keyes
+
+    box (list): The list of lists containing keys reps boxes.
+
+    returns:
+        bool: True if all boxes can be opened, else False.
+    """
     n = len(boxes)
     checked_boxes = set([0])
     unchecked_boxes = set(boxes[0]).difference(set([0]))
