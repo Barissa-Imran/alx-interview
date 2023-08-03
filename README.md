@@ -36,6 +36,8 @@ cd ./0x00-pascal_triangle
 
 > :point_right: [Go to solution](/0-pascal_triangle.py)
 
+## :computer: Project.
+
 [0x01. lockboxes](/0x01-lockboxes)
 
 lockboxes interview question
