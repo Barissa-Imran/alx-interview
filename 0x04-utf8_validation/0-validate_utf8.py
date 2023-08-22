@@ -32,7 +32,7 @@ def validUTF8(data):
                 return False
         elif data[i] & 0b11110000 == 0b11100000:
             span = 3
-            if n -1 >= span:
+            if n - 1 >= span:
                 next_body = list(map(
                     lambda x: x & 0b11000000 == 0b10000000,
                     data[i + 1: i + span],
