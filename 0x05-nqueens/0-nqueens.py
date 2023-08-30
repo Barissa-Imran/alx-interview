@@ -15,7 +15,6 @@ n = 0
 pos = None
 
 
-
 def get_input():
     """
     Retrieves and validates this program's argument.
